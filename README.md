@@ -1,3 +1,8 @@
+# ADDITION
+I've forked this project for dev purposes, to include in something else. I did not write this. Everything below this line is from the original project. Props to Richard Warburton for his hard work!
+
+---------------
+
 # DHCP4 - A DHCP library written in Go.
 
 ## Original Author
